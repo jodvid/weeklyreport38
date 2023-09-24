@@ -13,6 +13,8 @@
 
 - CONTINOUS RELOCATION, INSTALLATION AND LIGHT TEST 
 
+- 2ND FLOOR
+
 ![](assets/2nalsdk.jpg)
 ![](assets/2nalskdc.jpg)
 ![](assets/2nd.jpg)
@@ -27,6 +29,10 @@
 ![](assets/2ndlkadf.jpg)
 ![](assets/2ndlkjcv.jpg)
 ![](assets/2ndlkjsdf.jpg)
+
+
+- 4TH FLOOR
+
 ![](assets/4th.jpg)
 ![](assets/4th1.jpg)
 ![](assets/4thljka.jpg)
@@ -35,8 +41,19 @@
 ![](assets/4thlll.jpg)
 ![](assets/4thxxc.jpg)
 ![](assets/4thzl.jpg)
+
+
+- 2ND FLOOR VISIT FOR ADDITIONAL ACU 
 ![](assets/new2nd.jpg)
 ![](assets/new2nda.jpg)
+
+- SUBMITTED PROGRESS BILLING FOR 62%
+- waiting for feedback
+
+
+**Project/Task Details:**
+- **Project Name:** MEETING WITH TIM(TOTAL INFORMATION MANAGEMENT)
+
 ![](assets/tim.jpg)
 ![](assets/tim0.jpg)
 ![](assets/tim1.jpg)
@@ -52,24 +69,13 @@
 ![](assets/timaxc.jpg)
 ![](assets/timlsd.jpg)
 ![](assets/timxxc.jpg)
+
+**Project/Task Details:**
+- **Project Name:** ATTENDED UAP INDUCTION
+
 ![](assets/uapklz.jpg)
 ![](assets/uaps.jpg)
 ![](assets/uapzxc.jpg)
-
-
-
-
-
-- 2ND FLOOR
-
-
-- 3RD FLOOR
-
-- 4TH FLOOR
-
-
-- SUBMITTED PROGRESS BILLING FOR 62%
-- waiting for feedback
 
 **Project/Task Details:**
 - **Project Name:** HANN TEMFACIL
